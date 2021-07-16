@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "QuizApp.Services/1.0.0": {
+        "dependencies": {
+          "QuizApp.Domain": "1.0.0",
+          "QuizApp.Helpers": "1.0.0"
+        },
+        "runtime": {
+          "QuizApp.Services.dll": {}
+        }
+      },
+      "QuizApp.Domain/1.0.0": {
+        "runtime": {
+          "QuizApp.Domain.dll": {}
+        }
+      },
+      "QuizApp.Helpers/1.0.0": {
+        "runtime": {
+          "QuizApp.Helpers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuizApp.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuizApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuizApp.Helpers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

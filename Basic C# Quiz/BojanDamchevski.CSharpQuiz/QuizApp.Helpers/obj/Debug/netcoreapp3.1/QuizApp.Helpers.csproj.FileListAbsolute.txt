@@ -1,0 +1,9 @@
+C:\Users\Com\Desktop\Basic C# Quiz\BojanDamchevski.CSharpQuiz\QuizApp.Helpers\bin\Debug\netcoreapp3.1\QuizApp.Helpers.deps.json
+C:\Users\Com\Desktop\Basic C# Quiz\BojanDamchevski.CSharpQuiz\QuizApp.Helpers\bin\Debug\netcoreapp3.1\QuizApp.Helpers.dll
+C:\Users\Com\Desktop\Basic C# Quiz\BojanDamchevski.CSharpQuiz\QuizApp.Helpers\bin\Debug\netcoreapp3.1\QuizApp.Helpers.pdb
+C:\Users\Com\Desktop\Basic C# Quiz\BojanDamchevski.CSharpQuiz\QuizApp.Helpers\obj\Debug\netcoreapp3.1\QuizApp.Helpers.csproj.AssemblyReference.cache
+C:\Users\Com\Desktop\Basic C# Quiz\BojanDamchevski.CSharpQuiz\QuizApp.Helpers\obj\Debug\netcoreapp3.1\QuizApp.Helpers.AssemblyInfoInputs.cache
+C:\Users\Com\Desktop\Basic C# Quiz\BojanDamchevski.CSharpQuiz\QuizApp.Helpers\obj\Debug\netcoreapp3.1\QuizApp.Helpers.AssemblyInfo.cs
+C:\Users\Com\Desktop\Basic C# Quiz\BojanDamchevski.CSharpQuiz\QuizApp.Helpers\obj\Debug\netcoreapp3.1\QuizApp.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Com\Desktop\Basic C# Quiz\BojanDamchevski.CSharpQuiz\QuizApp.Helpers\obj\Debug\netcoreapp3.1\QuizApp.Helpers.dll
+C:\Users\Com\Desktop\Basic C# Quiz\BojanDamchevski.CSharpQuiz\QuizApp.Helpers\obj\Debug\netcoreapp3.1\QuizApp.Helpers.pdb

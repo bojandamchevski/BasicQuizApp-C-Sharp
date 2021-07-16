@@ -1,0 +1,14 @@
+C:\Users\Com\Desktop\Basic C# Quiz\BojanDamchevski.CSharpQuiz\QuizApp.Services\bin\Debug\netcoreapp3.1\QuizApp.Services.deps.json
+C:\Users\Com\Desktop\Basic C# Quiz\BojanDamchevski.CSharpQuiz\QuizApp.Services\bin\Debug\netcoreapp3.1\QuizApp.Services.dll
+C:\Users\Com\Desktop\Basic C# Quiz\BojanDamchevski.CSharpQuiz\QuizApp.Services\bin\Debug\netcoreapp3.1\QuizApp.Services.pdb
+C:\Users\Com\Desktop\Basic C# Quiz\BojanDamchevski.CSharpQuiz\QuizApp.Services\bin\Debug\netcoreapp3.1\QuizApp.Domain.dll
+C:\Users\Com\Desktop\Basic C# Quiz\BojanDamchevski.CSharpQuiz\QuizApp.Services\bin\Debug\netcoreapp3.1\QuizApp.Helpers.dll
+C:\Users\Com\Desktop\Basic C# Quiz\BojanDamchevski.CSharpQuiz\QuizApp.Services\bin\Debug\netcoreapp3.1\QuizApp.Domain.pdb
+C:\Users\Com\Desktop\Basic C# Quiz\BojanDamchevski.CSharpQuiz\QuizApp.Services\bin\Debug\netcoreapp3.1\QuizApp.Helpers.pdb
+C:\Users\Com\Desktop\Basic C# Quiz\BojanDamchevski.CSharpQuiz\QuizApp.Services\obj\Debug\netcoreapp3.1\QuizApp.Services.csproj.AssemblyReference.cache
+C:\Users\Com\Desktop\Basic C# Quiz\BojanDamchevski.CSharpQuiz\QuizApp.Services\obj\Debug\netcoreapp3.1\QuizApp.Services.AssemblyInfoInputs.cache
+C:\Users\Com\Desktop\Basic C# Quiz\BojanDamchevski.CSharpQuiz\QuizApp.Services\obj\Debug\netcoreapp3.1\QuizApp.Services.AssemblyInfo.cs
+C:\Users\Com\Desktop\Basic C# Quiz\BojanDamchevski.CSharpQuiz\QuizApp.Services\obj\Debug\netcoreapp3.1\QuizApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\Com\Desktop\Basic C# Quiz\BojanDamchevski.CSharpQuiz\QuizApp.Services\obj\Debug\netcoreapp3.1\QuizApp.Services.csproj.CopyComplete
+C:\Users\Com\Desktop\Basic C# Quiz\BojanDamchevski.CSharpQuiz\QuizApp.Services\obj\Debug\netcoreapp3.1\QuizApp.Services.dll
+C:\Users\Com\Desktop\Basic C# Quiz\BojanDamchevski.CSharpQuiz\QuizApp.Services\obj\Debug\netcoreapp3.1\QuizApp.Services.pdb

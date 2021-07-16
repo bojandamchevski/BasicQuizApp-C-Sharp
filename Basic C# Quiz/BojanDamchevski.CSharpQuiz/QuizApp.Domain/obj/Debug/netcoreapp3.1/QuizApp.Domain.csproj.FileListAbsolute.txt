@@ -1,0 +1,9 @@
+C:\Users\Com\Desktop\Basic C# Quiz\BojanDamchevski.CSharpQuiz\QuizApp.Domain\bin\Debug\netcoreapp3.1\QuizApp.Domain.deps.json
+C:\Users\Com\Desktop\Basic C# Quiz\BojanDamchevski.CSharpQuiz\QuizApp.Domain\bin\Debug\netcoreapp3.1\QuizApp.Domain.dll
+C:\Users\Com\Desktop\Basic C# Quiz\BojanDamchevski.CSharpQuiz\QuizApp.Domain\bin\Debug\netcoreapp3.1\QuizApp.Domain.pdb
+C:\Users\Com\Desktop\Basic C# Quiz\BojanDamchevski.CSharpQuiz\QuizApp.Domain\obj\Debug\netcoreapp3.1\QuizApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Com\Desktop\Basic C# Quiz\BojanDamchevski.CSharpQuiz\QuizApp.Domain\obj\Debug\netcoreapp3.1\QuizApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Com\Desktop\Basic C# Quiz\BojanDamchevski.CSharpQuiz\QuizApp.Domain\obj\Debug\netcoreapp3.1\QuizApp.Domain.AssemblyInfo.cs
+C:\Users\Com\Desktop\Basic C# Quiz\BojanDamchevski.CSharpQuiz\QuizApp.Domain\obj\Debug\netcoreapp3.1\QuizApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Com\Desktop\Basic C# Quiz\BojanDamchevski.CSharpQuiz\QuizApp.Domain\obj\Debug\netcoreapp3.1\QuizApp.Domain.dll
+C:\Users\Com\Desktop\Basic C# Quiz\BojanDamchevski.CSharpQuiz\QuizApp.Domain\obj\Debug\netcoreapp3.1\QuizApp.Domain.pdb
